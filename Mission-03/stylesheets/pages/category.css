@@ -167,9 +167,13 @@ article .bannerwrap {
   left: 174px;
 }
 
-article .bannerwrap .banner01 {
+article .bannerwrap .banner {
   width: 320px;
   height: 631px;
+}
+
+article .bannerwrap .hidden {
+  display: none;
 }
 
 article .bannerwrap .banner .banner-box {
